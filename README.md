@@ -1,2 +1,26 @@
-Last updated: 2026-09-13 21:28:51 WIB
-Last updated: 2026-09-13 21:30:09 WIB
+# Microsoft-Activation-Scripts
+
+
+
+## 📋 Overview
+
+This repository contains **20 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-13 21:32:35 WIB*
