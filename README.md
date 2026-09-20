@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/Microsoft-Activation-Scripts"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/Microsoft-Activation-Scripts-blue?logo=github"></a>
   <a href="https://antono4.github.io/Microsoft-Activation-Scripts/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-21-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-20 07:08:01 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-20 11:50:49 WIB-lightgrey">
 </p>
 
 ---
@@ -61,5 +61,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-20 07:08:01 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
-Last updated: 2026-09-20 09:00:28 WIB
+<sub>README ini di-generate otomatis pada **2026-09-20 11:50:49 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
